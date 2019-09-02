@@ -1,0 +1,84 @@
+{1 item
+  "Places":[10 items
+    0:{6 items
+      "PlaceId":"BUD-sky"
+      "PlaceName":"Budapest"
+      "CountryId":"HU-sky"
+      "RegionId":""
+      "CityId":"BUDA-sky"
+      "CountryName":"Hungary"
+    }
+    1:{6 items
+      "PlaceId":"OTP-sky"
+      "PlaceName":"Bucharest Otopeni"
+      "CountryId":"RO-sky"
+      "RegionId":""
+      "CityId":"BUCH-sky"
+      "CountryName":"Romania"
+    }
+    2:{6 items
+      "PlaceId":"SOF-sky"
+      "PlaceName":"Sofia"
+      "CountryId":"BG-sky"
+      "RegionId":""
+      "CityId":"SOFI-sky"
+      "CountryName":"Bulgaria"
+    }
+    3:{6 items
+      "PlaceId":"BOJ-sky"
+      "PlaceName":"Bourgas"
+      "CountryId":"BG-sky"
+      "RegionId":""
+      "CityId":"BURG-sky"
+      "CountryName":"Bulgaria"
+    }
+    4:{6 items
+      "PlaceId":"KYN-sky"
+      "PlaceName":"Milton Keynes"
+      "CountryId":"UK-sky"
+      "RegionId":""
+      "CityId":"KYNA-sky"
+      "CountryName":"United Kingdom"
+    }
+    5:{6 items
+      "PlaceId":"VAR-sky"
+      "PlaceName":"Varna"
+      "CountryId":"BG-sky"
+      "RegionId":""
+      "CityId":"VARN-sky"
+      "CountryName":"Bulgaria"
+    }
+    6:{6 items
+      "PlaceId":"BUEA-sky"
+      "PlaceName":"Buenos Aires"
+      "CountryId":"AR-sky"
+      "RegionId":""
+      "CityId":"BUEA-sky"
+      "CountryName":"Argentina"
+    }
+    7:{6 items
+      "PlaceId":"EZE-sky"
+      "PlaceName":"Buenos Aires Ministro Pistarini"
+      "CountryId":"AR-sky"
+      "RegionId":""
+      "CityId":"BUEA-sky"
+      "CountryName":"Argentina"
+    }
+    8:{6 items
+      "PlaceId":"AEP-sky"
+      "PlaceName":"Buenos Aires Jorge Newbery"
+      "CountryId":"AR-sky"
+      "RegionId":""
+      "CityId":"BUEA-sky"
+      "CountryName":"Argentina"
+    }
+    9:{6 items
+      "PlaceId":"PUS-sky"
+      "PlaceName":"Gimhae International"
+      "CountryId":"KR-sky"
+      "RegionId":""
+      "CityId":"PUSA-sky"
+      "CountryName":"South Korea"
+    }
+  ]
+}
